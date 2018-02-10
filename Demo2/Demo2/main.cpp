@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  CPlusProject
+//  Demo2
 //
-//  Created by hezixuan on 2018/1/28.
+//  Created by hezixuan on 2018/2/2.
 //  Copyright © 2018年 hezixuan. All rights reserved.
 //
 
